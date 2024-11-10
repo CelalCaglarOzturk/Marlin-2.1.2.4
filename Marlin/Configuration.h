@@ -1514,7 +1514,7 @@
  *     |    [-]    |
  *     O-- FRONT --+
  */
-#define NOZZLE_TO_PROBE_OFFSET { -42, -15, -5 } // BUNU OLC
+#define NOZZLE_TO_PROBE_OFFSET { -42, -16, -5 } // BUNU OLC
 
 // Most probes should stay away from the edges of the bed, but
 // with NOZZLE_AS_PROBE this can be negative for a wider probing area.
