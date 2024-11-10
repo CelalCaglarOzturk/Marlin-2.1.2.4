@@ -7,7 +7,7 @@ M0 Insert Z Switch
 
 G28 ; Home all axes
 
-G1 Z5.0 F3000 ; Move Z Axis up a bit during heating to not damage bed
+G1 Z7.0 F3000 ; Move Z Axis up a bit during heating to not damage bed
 
 
 M300 P300 S100 ;Switch alarm beep
